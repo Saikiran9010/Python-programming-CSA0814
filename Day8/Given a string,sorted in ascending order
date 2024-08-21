@@ -1,1 +1,6 @@
+m="Manju"
+p=''.join(sorted(m))
+print(p)
 
+output:
+      ajmnu
