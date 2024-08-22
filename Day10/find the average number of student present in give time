@@ -8,3 +8,6 @@ for i in range(t):
   count+=present
 average = count / t
 print("Average number of students present:", average)
+
+output:
+  Average number of students present: 31
