@@ -9,3 +9,7 @@ for age in [75, 85]:
         validate_age(age)
     except InvalidAgeError as e:
         print(e)
+
+output:
+Age must be between 80 and 100 inclusive. Provided age: 75
+Age is valid: 85
